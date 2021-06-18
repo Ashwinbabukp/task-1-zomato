@@ -51,6 +51,17 @@
   .hero__image__container {
     width: 100%;
   }
+  .img__bg__shape{
+    position: absolute;
+    margin-top: -20px;
+    z-index: -2;
+}
+
+ .img__bg__pattern{
+    position: absolute;
+    margin-top: -20px;
+    z-index: -3;
+}
   
   .hero__image {
     width: 100%;
